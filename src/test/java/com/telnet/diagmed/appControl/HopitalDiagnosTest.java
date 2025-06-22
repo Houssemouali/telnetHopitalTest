@@ -5,7 +5,8 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- *
+ *Classe de test pour le classe de control HopitalDiagnos
+ * 
  * @author Houss
  */
 public class HopitalDiagnosTest {

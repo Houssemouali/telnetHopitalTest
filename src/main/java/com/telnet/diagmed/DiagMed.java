@@ -5,7 +5,7 @@ import com.telnet.diagmed.service.DiagnosticService;
 
 /**
  * Class main de test
- * 
+ *
  * @author Houss
  */
 public class DiagMed {
@@ -22,9 +22,9 @@ public class DiagMed {
 
         String patient3TraumaCardio = cabinHopital.redirectPatient(15);
         System.out.println(patient3TraumaCardio);
-  
-       String patient4Undefined= cabinHopital.redirectPatient(22);
-       System.out.println(patient4Undefined);
+
+        String patient4Undefined = cabinHopital.redirectPatient(22);
+        System.out.println(patient4Undefined);
 
     }
 }
